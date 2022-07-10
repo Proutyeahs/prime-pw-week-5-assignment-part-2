@@ -15,3 +15,11 @@ body {
     margin: 0;
 }
 
+.title {
+    border: 4px dotted yellow;
+}
+
+.info {
+    text-align: right;
+    text-decoration: underline;
+}
